@@ -20,3 +20,13 @@
     background-size:cover;
     height:auto;
 }
+
+
+.first{
+    background-color: rgb(219, 17, 41)
+    height: 100px;
+    width; 200px;
+}
+#second{
+    height:50%;
+}
